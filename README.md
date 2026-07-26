@@ -5,7 +5,7 @@
 ### 🚀 Full Stack Developer | AI Enthusiast | B.Tech CSE Student
 
 <p>
-<a href="mailto:pg96082219@gmail.com">
+<a href="mailto:gauravprashantkumar26@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -76,19 +76,13 @@ $ neofetch
 
 🚀 Featured Projects
 
-✔ AI Strategy Agent
-
 ✔ AI Health Checker
 
 ✔ Smart Judicial System
 
-✔ Complaint Management Website
-
 ──────────────────────────────────────────────────────────────────────
 
 📚 Currently Learning
-
-✔ Next.js
 
 ✔ Artificial Intelligence
 
@@ -104,7 +98,7 @@ Become a Full Stack AI Engineer
 
 ──────────────────────────────────────────────────────────────────────
 
-📧 Email........... pg96082219@gmail.com
+📧 Email........... gauravprashantkumar26@gmail.com
 
 Status............ 🟢 Available for Learning & Collaboration
 ```
@@ -120,21 +114,16 @@ Status............ 🟢 Available for Learning & Collaboration
 </p>
 
 ---
-
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaurav-prashant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gaurav-prashant&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-prashant&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-prashant&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=gaurav-prashant&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=gaurav-prashant&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
