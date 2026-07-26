@@ -117,13 +117,11 @@ Status............ 🟢 Available for Learning & Collaboration
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaurav-prashant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-prashant&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gaurav-prashant&show_icons=true&theme=tokyonight"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gaurav-prashant&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gaurav-prashant&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
