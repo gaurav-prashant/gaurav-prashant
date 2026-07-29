@@ -47,8 +47,7 @@ $ neofetch
 🎓 Education....... B.Tech Computer Science & Engineering
 🏫 University...... Swami Vivekanand Subharti University
 🖥️ OS.............. Windows 11 Pro
-⚙️ Kernel.......... MirAI AI Builder 2026
-🌍 Location........ Bihar, India
+🌍 Location........ Noida, India
 
 ──────────────────────────────────────────────────────────────────────
 
