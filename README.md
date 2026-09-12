@@ -113,25 +113,6 @@ Status............ 🟢 Available for Learning & Collaboration
 </p>
 
 ---
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gaurav-prashant&show_icons=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gaurav-prashant&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-prashant&theme=tokyo-night"/>
-
-</p>
 
 
 # 📫 Connect With Me
