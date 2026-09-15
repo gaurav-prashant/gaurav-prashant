@@ -8,16 +8,34 @@
 
 <br><br>
 
+<a href="<div align="center">
+
+## 🌐 MY PORTFOLIO
+
+<a href="https://prashant-portfolio-six-kappa.vercel.app/"">
+
+<img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+**Explore my projects, skills, experience and development journey.**
+
+</div>">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+&nbsp;
 <a href="mailto:gauravprashantkumar26@gmail.com">
-<img src="https://img.shields.io/badge/LET'S%20TALK-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/📧%20EMAIL-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/prashantgaurav06/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/gaurav-prashant">
-<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20GITHUB-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
@@ -193,21 +211,7 @@ A technology-driven application designed to modernize judicial workflows and pro
 
 </tr>
 
-<tr>
 
-<td width="50%" valign="top">
-
-<h2>🩸 Blood Donor Management</h2>
-
-A web-based management system designed to organize donor information and simplify blood donor management.
-
-### Tech
-
-`ASP.NET MVC` `C#` `SQL Server` `HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="50%" valign="top">
 
 <h2>🌐 Responsive Web Apps</h2>
 
@@ -275,7 +279,6 @@ Modern responsive applications focused on clean UI, usability and practical func
  ├── AI APIs
  ├── Streamlit Applications
  ├── System Design
- └── Cloud Deployment
  │
  ▼
 🎯 NEXT
