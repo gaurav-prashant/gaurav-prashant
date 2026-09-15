@@ -4,35 +4,27 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+%26+Generative+AI+Enthusiast;Building+Real-World+Applications;Exploring+Artificial+Intelligence;Future+Full+Stack+AI+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Web+Applications+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Creating+AI-Powered+Applications+%F0%9F%9A%80;Learning+System+Design+%26+Cloud+%E2%98%81%EF%B8%8F;Future+Full+Stack+AI+Engineer+%F0%9F%94%A5" />
 
 <br><br>
 
-<a href="https://prashant-portfolio-six-kappa.vercel.app/">
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-Visit%20Website-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://prashant-portfolio-six-kappa.vercel.app/"">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
 &nbsp;
-
 <a href="mailto:gauravprashantkumar26@gmail.com">
-<img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/LET'S%20TALK-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 &nbsp;
-
 <a href="https://www.linkedin.com/in/prashantgaurav06/">
-<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 &nbsp;
-
 <a href="https://github.com/gaurav-prashant">
-<img src="https://img.shields.io/badge/%F0%9F%92%BB%20GITHUB-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=gaurav-prashant&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge"/>
 
 </div>
 
@@ -40,29 +32,40 @@
 
 <div align="center">
 
-## ⚡ WHO AM I?
+## ⚡ **WHO AM I?**
 
 <table>
 <tr>
-
 <td align="center" width="180">
-<h2>🎓</h2>
-<b>B.Tech CSE</b>
+
+### 🎓
+
+**B.Tech CSE**
+
 </td>
 
 <td align="center" width="180">
-<h2>💻</h2>
-<b>Full Stack</b>
+
+### 💻
+
+**Full Stack**
+
 </td>
 
 <td align="center" width="180">
-<h2>🤖</h2>
-<b>AI Enthusiast</b>
+
+### 🤖
+
+**AI Enthusiast**
+
 </td>
 
 <td align="center" width="180">
-<h2>🚀</h2>
-<b>Builder</b>
+
+### 🚀
+
+**Builder**
+
 </td>
 
 </tr>
@@ -72,137 +75,179 @@
 
 ---
 
-# 👋 Hello, I'm Prashant Kumar Gaurav
+# 👋 Hello, I'm Prashant
 
-I'm a **B.Tech Computer Science & Engineering student** passionate about **Full Stack Development, Artificial Intelligence, and Generative AI**.
+I'm a **B.Tech Computer Science & Engineering student** passionate about building software that solves real-world problems.
 
-I enjoy building practical applications that solve real-world problems and continuously improving my skills by working with modern technologies.
-
-### 🎯 My Focus
+My development journey revolves around two major areas:
 
 ```text
-Full Stack Development
-        +
-Artificial Intelligence
-        +
-Generative AI
-        +
-Real-World Applications
-        ↓
-Full Stack AI Engineer
+                    ┌─────────────────────────┐
+                    │        PRASHANT         │
+                    └────────────┬────────────┘
+                                 │
+                ┌────────────────┴────────────────┐
+                │                                 │
+        ┌───────▼────────┐               ┌────────▼────────┐
+        │ FULL STACK WEB │               │ ARTIFICIAL AI   │
+        │   DEVELOPMENT  │               │  & GEN AI       │
+        └───────┬────────┘               └────────┬────────┘
+                │                                 │
+       React • Next.js                    ML • GenAI
+       Node • Express                     Streamlit
+       PHP • ASP.NET                      Groq API
+       SQL • MongoDB                      AI Applications
+                │                                 │
+                └────────────────┬────────────────┘
+                                 │
+                        ┌────────▼────────┐
+                        │ AI + FULL STACK │
+                        │    ENGINEER     │
+                        └─────────────────┘
+```
 
-🚀 My goal is to build intelligent, scalable and production-ready applications by combining Full Stack Development with Artificial Intelligence.
+> **My goal:** Build intelligent, scalable and production-ready applications by combining **Full Stack Development + Artificial Intelligence**.
 
-🌐 My Portfolio
-<div align="center"> <a href="https://prashant-portfolio-six-kappa.vercel.app/"> <img src="https://img.shields.io/badge/%F0%9F%9A%80%20VISIT%20MY%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
+---
 
-<br><br>
+# 🧰 My Technology Arsenal
 
-<b>Projects • Skills • Experience • Developer Journey</b>
-
-<br><br>
-
-<i>Explore my complete portfolio and development work.</i>
-
-</div>
-🧑‍💻 About Me
-	Details
-🎓 Education	B.Tech Computer Science & Engineering
-🏫 University	Swami Vivekanand Subharti University
-💻 Primary Focus	Full Stack Development
-🤖 AI Focus	Artificial Intelligence & Generative AI
-📍 Location	Noida, India
-🎯 Goal	Full Stack AI Engineer
-🧰 Tech Stack
 <div align="center">
-💻 Programming Languages
+
+### 👨‍💻 Programming
+
 <img src="https://skillicons.dev/icons?i=python,cpp,php,js" />
 
-<br><br>
+### 🎨 Frontend
 
-🎨 Frontend Development
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs" />
 
-<br><br>
+### ⚙️ Backend
 
-⚙️ Backend Development
 <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 
-<br><br>
+### 🗄️ Database
 
-🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-<br><br>
+### 🤖 Artificial Intelligence
 
-🤖 AI & Generative AI
-<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/> <img src="https://img.shields.io/badge/Groq%20API-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+<img src="https://img.shields.io/badge/Groq%20API-111827?style=for-the-badge"/>
 
-<br><br>
+### 🛠️ Tools
 
-🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </div>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
-Additional Experience: ASP.NET MVC · SQL Server · C#
+</div>
 
-🚀 Featured Projects
-<table> <tr> <td width="50%" valign="top">
-🩺 AI Health Checker
+**Additional experience:** ASP.NET MVC · SQL Server · C#
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🩺 AI Health Checker</h2>
 
 An AI-powered application designed to provide users with intelligent health-related insights through an easy-to-use interface.
 
-Tech Stack
+### Tech
 
-Python Streamlit Generative AI Groq API
+`Python` `Streamlit` `Generative AI` `Groq API`
 
-Highlights
+### Highlights
+
 🤖 AI Integration
 ⚡ Real-time Responses
-🎨 Interactive Interface
+🎨 Interactive UI
 🧠 Intelligent Assistance
-</td> <td width="50%" valign="top">
-⚖️ Smart Judicial System
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>⚖️ Smart Judicial System</h2>
 
 A technology-driven application designed to modernize judicial workflows and provide intelligent software-based assistance.
 
-Tech Stack
+### Tech
 
-Python AI Web Development Database
+`Python` `AI` `Web Development` `Database`
 
-Highlights
+### Highlights
+
 🧠 AI Features
 ⚡ Workflow Automation
 🗄️ Data Management
 🌐 Web Application
-</td> </tr> <tr> <td width="50%" valign="top">
-🩸 Blood Donor Management
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🩸 Blood Donor Management</h2>
 
 A web-based management system designed to organize donor information and simplify blood donor management.
 
-Tech Stack
+### Tech
 
-ASP.NET MVC C# SQL Server HTML CSS JavaScript
+`ASP.NET MVC` `C#` `SQL Server` `HTML` `CSS` `JavaScript`
 
-</td> <td width="50%" valign="top">
-🌐 Responsive Web Applications
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🌐 Responsive Web Apps</h2>
 
 Modern responsive applications focused on clean UI, usability and practical functionality.
 
-Tech Stack
+### Tech
 
-HTML CSS JavaScript PHP MySQL
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-</td> </tr> </table>
-🧠 Currently Learning
-<div align="center">
-Area	Focus
-🤖 Artificial Intelligence	Machine Learning · Generative AI
-🧠 LLM Applications	AI APIs · Intelligent Applications
-💻 Full Stack	React · Next.js · Node.js
-🏗️ System Design	Scalable Software Architecture
-☁️ Cloud	Deployment · Production Applications
+</td>
+
+</tr>
+
+</table>
+
 </div>
-🗺️ My Developer Journey
+
+---
+
+# 🧠 What I'm Learning
+
+<div align="center">
+
+|              Area              | Focus                                |
+| :----------------------------: | :----------------------------------- |
+| 🤖 **Artificial Intelligence** | Machine Learning · Generative AI     |
+|     🧠 **LLM Applications**    | AI APIs · Intelligent Applications   |
+|        💻 **Full Stack**       | React · Next.js · Node.js            |
+|      🏗️ **System Design**     | Scalable Software Architecture       |
+|          ☁️ **Cloud**          | Deployment · Production Applications |
+
+</div>
+
+---
+
+# 🗺️ My Developer Journey
+
+```text
 2023
  │
  ├── Programming Fundamentals
@@ -214,7 +259,7 @@ Area	Focus
  ├── Web Development
  ├── HTML / CSS / JavaScript
  ├── PHP / ASP.NET MVC
- └── SQL / MySQL / SQL Server
+ ├── SQL / MySQL / SQL Server
  │
  ▼
 2025
@@ -222,7 +267,7 @@ Area	Focus
  ├── Full Stack Development
  ├── React / Node.js
  ├── MongoDB
- └── Real-World Projects
+ ├── Real-world Projects
  │
  ▼
 2026
@@ -238,50 +283,127 @@ Area	Focus
 🎯 NEXT
  │
  └── FULL STACK AI ENGINEER
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gaurav-prashant&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-prashant&layout=compact&hide_border=true&theme=tokyonight" height="180"/> </div>
-🔥 Contribution Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=gaurav-prashant&theme=tokyonight&hide_border=true&background=0D1117"/> </div>
-📈 Coding Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-prashant&bg_color=0D1117&color=38BDF8&line=2563EB&point=06B6D4&area=true&hide_border=true" width="95%"/> </div>
-🏆 GitHub Achievements
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=gaurav-prashant&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/> </div>
-🎯 2026 Mission
+```
+
+---
+
+# 📊 GitHub Performance
+
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gaurav-prashant&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-prashant&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=gaurav-prashant&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 📈 Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-prashant&bg_color=0D1117&color=38BDF8&line=2563EB&point=06B6D4&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gaurav-prashant&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
+
+</div>
+
+---
+
+# 🎯 2026 Mission
+
+<div align="center">
+
+```text
 ╭────────────────────────────────────────────────────╮
 │                                                    │
-│        BUILD  →  LEARN  →  SHIP  →  IMPROVE      │
+│       BUILD       →       LEARN       →            │
 │                                                    │
-│                    →  REPEAT  🚀                  │
+│       SHIP        →       IMPROVE     →            │
+│                                                    │
+│       REPEAT      →       🚀                        │
 │                                                    │
 ╰────────────────────────────────────────────────────╯
-Current Focus
+```
 
-AI Engineering • Full Stack Development • System Design • Cloud
+### Current Focus
 
-Ultimate Goal
-🚀 FULL STACK AI ENGINEER
+**AI Engineering • Full Stack Development • System Design • Cloud**
+
+### Ultimate Goal
+
+# 🚀 **FULL STACK AI ENGINEER**
+
 </div>
-💼 Open To
-<div align="center"> <img src="https://img.shields.io/badge/Software%20Development-2563EB?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI%20%26%20ML-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Full%20Stack-0891B2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Internships-059669?style=for-the-badge"/> <img src="https://img.shields.io/badge/Collaborations-F59E0B?style=for-the-badge"/> <img src="https://img.shields.io/badge/Open%20Source-E11D48?style=for-the-badge"/> </div>
-🤝 Let's Build Something Great
+
+---
+
+# 💼 Open To
+
 <div align="center">
-Have an idea? Let's turn it into reality. 🚀
 
-I'm interested in software development, AI, web technologies, innovative projects and collaboration opportunities.
+<img src="https://img.shields.io/badge/Software%20Development-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Internships-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Collaborations-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-E11D48?style=for-the-badge"/>
 
-<br> <a href="https://prashant-portfolio-six-kappa.vercel.app/"> <img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-Visit%20Website-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
+</div>
 
- 
+---
 
-<a href="mailto:gauravprashantkumar26@gmail.com"> <img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+# 🤝 Let's Build Something Great
 
- 
+<div align="center">
 
-<a href="https://www.linkedin.com/in/prashantgaurav06/"> <img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+### **Have an idea? Let's turn it into reality. 🚀**
 
- 
+I'm interested in **software development, AI, web technologies, innovative projects and collaboration opportunities.**
 
-<a href="https://github.com/gaurav-prashant"> <img src="https://img.shields.io/badge/%F0%9F%92%BB%20GITHUB-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <br> <div align="center">
-⭐ CODE • LEARN • BUILD • REPEAT
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1d4ed8,100:06b6d4&height=140&section=footer"/> </div> ```
+<br>
+
+<a href="mailto:gauravprashantkumar26@gmail.com">
+<img src="https://img.shields.io/badge/📧%20EMAIL-Contact%20Me-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prashantgaurav06/">
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/gaurav-prashant">
+<img src="https://img.shields.io/badge/💻%20GITHUB-Follow-111827?style=for-the-badge"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⭐ **Code • Learn • Build • Repeat**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1d4ed8,100:06b6d4&height=140&section=footer"/>
+
+</div>
