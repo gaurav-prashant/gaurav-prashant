@@ -12,7 +12,7 @@
 
 ## 🌐 MY PORTFOLIO
 
-<a href="https://prashant-portfolio-six-kappa.vercel.app/"">
+<a href="https://prashant-portfolio-six-kappa.vercel.app/">
 
 <img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 
