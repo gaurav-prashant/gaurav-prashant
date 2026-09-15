@@ -8,17 +8,21 @@
 
 <br><br>
 
-<a href="<div align="center">
+<div align="center">
 
 ## 🌐 MY PORTFOLIO
 
 <a href="https://prashant-portfolio-six-kappa.vercel.app/">
 
-<img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20VISIT%20MY%20PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 
 </a>
 
 <br><br>
+
+**Explore my projects, skills, experience and development journey.**
+
+</div>
 
 **Explore my projects, skills, experience and development journey.**
 
