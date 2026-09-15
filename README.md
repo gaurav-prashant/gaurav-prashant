@@ -1,135 +1,181 @@
 <div align="center">
 
-# 👋 Hi, I'm **Prashant Kumar Gaurav**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=PRASHANT%20KUMAR%20GAURAV&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-### 💻 Full Stack Developer · 🤖 AI Enthusiast · 🚀 B.Tech CSE
+<br>
 
-<p>
-  <a href="mailto:gauravprashantkumar26@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/gaurav-prashant">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/prashantgaurav06/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Generative+AI+Enthusiast;B.Tech+Computer+Science+Student;Building+Real-World+Software+Solutions;Future+Full+Stack+AI+Engineer" />
 
-<img src="https://komarev.com/ghpvc/?username=gaurav-prashant&style=flat-square&color=blue" />
+<br><br>
+
+<a href="mailto:gauravprashantkumar26@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/gaurav-prashant">
+<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prashantgaurav06/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=gaurav-prashant&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<h2 align="center">👨‍💻 ABOUT ME</h2>
 
-```yaml
-name: Prashant Kumar Gaurav
-education: B.Tech Computer Science & Engineering
-university: Swami Vivekanand Subharti University
-location: Noida, India
+<div align="center">
 
-role:
-  - Full Stack Developer
-  - AI Enthusiast
+### **Hi, I'm Prashant Kumar Gaurav 👋**
 
-interests:
-  - Web Development
-  - Artificial Intelligence
-  - Generative AI
-  - Machine Learning
-  - System Design
+**B.Tech Computer Science & Engineering Student**
+**Full Stack Developer • AI Enthusiast • Problem Solver**
 
-currently_learning:
-  - AI Engineering
+</div>
 
+I am a Computer Science student passionate about **Full Stack Development, Artificial Intelligence, and Generative AI**.
 
-goal: "Become a Full Stack AI Engineer"
+I enjoy designing and developing practical applications that solve real-world problems using modern technologies.
+
+My current focus is on combining **AI + Web Development** to create intelligent, useful, and scalable applications.
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                         PRASHANT                             │
+├──────────────────────────────────────────────────────────────┤
+│ 🎓 B.Tech CSE                                               │
+│ 🏫 Swami Vivekanand Subharti University                     │
+│ 📍 Noida, India                                             │
+│ 💻 Full Stack Development                                   │
+│ 🤖 Artificial Intelligence & Generative AI                  │
+│ 🚀 Goal → Full Stack AI Engineer                            │
+└──────────────────────────────────────────────────────────────┘
 ```
-
-I am a **B.Tech Computer Science & Engineering student** passionate about building practical software solutions using **Full Stack Development and Artificial Intelligence**.
-
-I enjoy transforming ideas into real-world applications, exploring modern technologies, and continuously improving my development skills.
-
-Currently, I'm focused on combining **web technologies + AI** to build intelligent and scalable applications.
 
 ---
 
-## 🧠 What I Work With
+<h2 align="center">⚡ TECH STACK</h2>
 
-### 💻 Programming Languages
+### 💻 Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,php,js" />
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
 
+**Also:** ASP.NET MVC
+
 ### 🗄️ Databases
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-**Also experienced with:** ASP.NET MVC · SQL Server
+**Also:** SQL Server
 
-### 🤖 AI & Data
+### 🤖 AI & Generative AI
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+
 </p>
 
-* Machine Learning
-* Generative AI
-* Streamlit
-* Groq API
-* AI-powered web applications
+### 🛠️ Tools
 
-### 🛠️ Tools & Workflow
-
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-<table>
+<table align="center">
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🩺 AI Health Checker
+<h3>🩺 AI Health Checker</h3>
 
-An AI-powered health assistance application designed to provide users with intelligent health-related insights.
+AI-powered health assistance application built to provide intelligent health-related insights through a simple web interface.
 
-**Tech Stack**
+**Technologies**
 
-`Python` `Streamlit` `AI` `Generative AI` `Groq API`
+`Python` `Streamlit` `Generative AI` `Groq API`
+
+**Focus**
+
+🤖 AI Integration
+🧠 Intelligent Responses
+🌐 Web Application
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚖️ Smart Judicial System
+<h3>⚖️ Smart Judicial System</h3>
 
-A technology-driven application designed to simplify and modernize judicial workflows through software and intelligent features.
+A software solution focused on improving judicial workflows through technology and intelligent application features.
 
-**Tech Stack**
+**Technologies**
 
 `Python` `Web Development` `AI` `Database`
+
+**Focus**
+
+⚡ Automation
+🧠 AI Integration
+🗄️ Data Management
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🩸 Blood Donor Management System</h3>
+
+A web-based application designed to manage blood donors and simplify donor-related information management.
+
+**Technologies**
+
+`ASP.NET MVC` `C#` `SQL Server` `HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌐 Responsive Web Applications</h3>
+
+Modern responsive web applications developed using frontend and backend technologies with focus on usability and clean UI.
+
+**Technologies**
+
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
 </td>
 
@@ -138,101 +184,110 @@ A technology-driven application designed to simplify and modernize judicial work
 
 ---
 
-# 🌱 Currently Exploring
+<h2 align="center">🧠 CURRENTLY LEARNING</h2>
+
+<div align="center">
+
+`Artificial Intelligence`
+↓
+`Generative AI`
+↓
+`AI APIs & LLM Applications`
+↓
+`Full Stack Development`
+↓
+`System Design`
+↓
+`Cloud Deployment`
+
+</div>
+
+---
+
+<h2 align="center">🎯 2026 ROADMAP</h2>
 
 ```text
-Artificial Intelligence
-        ↓
-Generative AI
-        ↓
-AI-powered Applications
-        ↓
-Full Stack Development
-        ↓
-System Design
-        ↓
-Cloud Deployment
+████████████████████████████████████████  Full Stack Development
+
+██████████████████████████████░░░░░░░░░░  Generative AI
+
+██████████████████████░░░░░░░░░░░░░░░░░░  Machine Learning
+
+██████████████████░░░░░░░░░░░░░░░░░░░░░░  System Design
+
+██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  Cloud & DevOps
 ```
 
-I'm particularly interested in building applications where **AI is not just a feature, but an integral part of the product.**
+### My Goal
+
+> **Build intelligent, scalable and production-ready applications by combining Full Stack Development with Artificial Intelligence.**
 
 ---
 
-# 📊 GitHub Analytics
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaurav-prashant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=gaurav-prashant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-prashant&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-prashant&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+<h2 align="center">🔥 CONTRIBUTION STREAK</h2>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gaurav-prashant&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=gaurav-prashant&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+<h2 align="center">📈 CONTRIBUTION GRAPH</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-prashant&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-prashant&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
-
-```text
-[✓] Build Full Stack Applications
-[✓] Explore Generative AI
-[✓] Work with AI APIs
-[ ] Master System Design
-[ ] Build Production-grade AI Applications
-[ ] Improve Cloud & DevOps Skills
-[ ] Contribute to Open Source
-[ ] Become a Full Stack AI Engineer
-```
-
----
-
-# 🤝 Let's Connect
+<h2 align="center">🤝 LET'S CONNECT</h2>
 
 <div align="center">
 
-I'm always interested in discussing **software development, AI, web technologies, projects, and collaboration opportunities.**
+### **Have an idea? Let's build it. 🚀**
+
+I'm open to opportunities, collaborations, interesting projects and conversations around **Software Development & AI**.
 
 <br>
 
 <a href="mailto:gauravprashantkumar26@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/prashantgaurav06/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/gaurav-prashant">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 💡 **Code. Learn. Build. Repeat.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=footer"/>
 
-⭐ If you find my projects interesting, consider giving them a star!
+### **CODE • LEARN • BUILD • REPEAT**
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
