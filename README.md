@@ -8,21 +8,7 @@
 
 <br><br>
 
-<a href="https://prashant-portfolio-six-kappa.vercel.app/"">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:gauravprashantkumar26@gmail.com">
-<img src="https://img.shields.io/badge/LET'S%20TALK-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/prashantgaurav06/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/gaurav-prashant">
-<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://prashant-portfolio-six-kappa.vercel.app/"> <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> &nbsp; <a href="mailto:gauravprashantkumar26@gmail.com"> <img src="https://img.shields.io/badge/📧%20EMAIL-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/> </a> &nbsp; <a href="https://www.linkedin.com/in/prashantgaurav06/"> <img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> &nbsp; <a href="https://github.com/gaurav-prashant"> <img src="https://img.shields.io/badge/💻%20GITHUB-020617?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 <br><br>
 
