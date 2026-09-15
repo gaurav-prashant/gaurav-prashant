@@ -122,7 +122,7 @@ AI-powered health assistance application built to provide intelligent health-rel
 
 **Technologies**
 
-`Python` `Streamlit` `Generative AI` `Groq API`
+`Python` `Streamlit` `Generative AI` `API`
 
 **Focus**
 
@@ -154,19 +154,7 @@ A software solution focused on improving judicial workflows through technology a
 
 <tr>
 
-<td width="50%" valign="top">
 
-<h3>🩸 Blood Donor Management System</h3>
-
-A web-based application designed to manage blood donors and simplify donor-related information management.
-
-**Technologies**
-
-`ASP.NET MVC` `C#` `SQL Server` `HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="50%" valign="top">
 
 <h3>🌐 Responsive Web Applications</h3>
 
