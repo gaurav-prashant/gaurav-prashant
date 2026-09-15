@@ -181,21 +181,6 @@ A technology-driven application designed to modernize judicial workflows and pro
 
 </tr>
 
-<tr>
-
-<td width="50%" valign="top">
-
-<h2>🩸 Blood Donor Management</h2>
-
-A web-based management system designed to organize donor information and simplify blood donor management.
-
-### Tech
-
-`ASP.NET MVC` `C#` `SQL Server` `HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="50%" valign="top">
 
 <h2>🌐 Responsive Web Apps</h2>
 
@@ -237,7 +222,7 @@ Modern responsive applications focused on clean UI, usability and practical func
 2023
  │
  ├── Programming Fundamentals
- ├── C++ / Python
+ ├── C++ 
  │
  ▼
 2024
@@ -250,7 +235,7 @@ Modern responsive applications focused on clean UI, usability and practical func
  ▼
 2025
  │
- ├── Full Stack Development
+ ├── Full Stack Development / Python
  ├── React / Node.js
  ├── MongoDB
  ├── Real-world Projects
