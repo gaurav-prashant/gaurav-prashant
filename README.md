@@ -81,7 +81,7 @@ My development journey revolves around two major areas:
                 │                                 │
        React • Next.js                    ML • GenAI
        Node • Express                     Streamlit
-       PHP • ASP.NET                      Groq API
+       PHP • ASP.NET                         API
        SQL • MongoDB                      AI Applications
                 │                                 │
                 └────────────────┬────────────────┘
@@ -255,48 +255,6 @@ Modern responsive applications focused on clean UI, usability and practical func
  │
  └── FULL STACK AI ENGINEER
 ```
-
----
-
-# 📊 GitHub Performance
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gaurav-prashant&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-prashant&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=gaurav-prashant&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# 📈 Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-prashant&bg_color=0D1117&color=38BDF8&line=2563EB&point=06B6D4&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gaurav-prashant&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
-
-</div>
 
 ---
 
