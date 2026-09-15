@@ -22,7 +22,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=gaurav-prashant&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"/>
 
 </div>
 
