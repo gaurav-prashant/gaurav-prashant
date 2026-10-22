@@ -61,41 +61,6 @@
 
 ---
 
-# 👋 Hello, I'm Prashant
-
-I'm a **B.Tech Computer Science & Engineering student** passionate about building software that solves real-world problems.
-
-My development journey revolves around two major areas:
-
-```text
-                    ┌─────────────────────────┐
-                    │        PRASHANT         │
-                    └────────────┬────────────┘
-                                 │
-                ┌────────────────┴────────────────┐
-                │                                 │
-        ┌───────▼────────┐               ┌────────▼────────┐
-        │ FULL STACK WEB │               │ ARTIFICIAL AI   │
-        │   DEVELOPMENT  │               │  & GEN AI       │
-        └───────┬────────┘               └────────┬────────┘
-                │                                 │
-       React • Next.js                    ML • GenAI
-       Node • Express                     Streamlit
-       PHP • ASP.NET                         API
-       SQL • MongoDB                      AI Applications
-                │                                 │
-                └────────────────┬────────────────┘
-                                 │
-                        ┌────────▼────────┐
-                        │ AI + FULL STACK │
-                        │    ENGINEER     │
-                        └─────────────────┘
-```
-
-> **My goal:** Build intelligent, scalable and production-ready applications by combining **Full Stack Development + Artificial Intelligence**.
-
----
-
 # 🧰 My Technology Arsenal
 
 <div align="center">
